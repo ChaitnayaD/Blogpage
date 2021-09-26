@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+body {
+  position: relative;
+  font-family: Roboto;
+}
+.nav {
+  z-index: -1;
+}
+.button {
+  width: 696px;
+  height: 52px;
+  left: 275px;
+  top: 2884px;
+  color: white;
+  background-color: blue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.form-control {
+  width: 696px;
+  height: 169px;
+  left: 275px;
+  top: 2693px;
+}
+.card {
+  width: 800px;
+  height: 950px;
+}
+.nav-pills > a,
+.nav-pills > a:focus,
+.nav-pills > a:hover {
+  color: red;
+  background-color: white;
+}
